@@ -1,3 +1,3 @@
 function NewApp() {
-  return NewApp;
+  return NewApp; //returning NewApp
 }
