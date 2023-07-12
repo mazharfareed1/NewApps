@@ -6,8 +6,6 @@ const App = () => {
     <View style={{backgroundColor: 'red'}}>
       <Text>App67987</Text>
       <Button title="NewButton" color={'Puink'} />
-      <Text>App67</Text>
-      <TextInput style={{borderRadius: 1, backgroundColor: 'red'}} />
     </View>
   );
 };
