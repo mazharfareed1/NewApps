@@ -104,6 +104,7 @@ const styles = StyleSheet.create({
   sectionTitle: {
     fontSize: 28,
     fontWeight: '600',
+    color: 'blue',
   },
   sectionDescription: {
     marginTop: 8,
